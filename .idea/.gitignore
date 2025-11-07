@@ -1,0 +1,31 @@
+# Ignorar ambientes virtuais
+.venv/
+venv/
+
+# Ignorar configs do VS Code / PyCharm
+.idea/
+.vscode/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+.DS_Store
+.env
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Outros
+.DS_Store
+.env
